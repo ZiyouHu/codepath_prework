@@ -48,7 +48,7 @@ Also, if a photo contains multiple QR codes, I want the app to provide a list of
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+No.
 
 ## License
 
