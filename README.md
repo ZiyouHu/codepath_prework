@@ -36,6 +36,12 @@ Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove th
 - Record when and where a photo was taken
 - Identify the theme of the photo--people, animals, landscapes, or documents.
 
+### App Idea
+
+I want to improve the QR code recognition featurs on Photos.
+Whenever I want to access a QR code, I need to rescan it each time. I want the app to auto-recognize the QR code and saves the link with the photo. With this new feature, I can just click on the link instead of rescanning if I want to access the content again.
+Also, if a photo contains multiple QR codes, I want the app to provide a list of links to me, so that I can choose which link to direct me to.
+
 ## Notes
 
 Describe any challenges encountered while building the app.
