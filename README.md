@@ -1,10 +1,10 @@
-# Prework - *Name of App Here*
+# Prework - *iosApp*
 
 Submitted by: **Ziyou Hu**
 
-**Name of your app** is an app that... [TODO] 
+**iosApp** is an app that displays my name, my school, and my dream job. The app also contains a button that randomly changes the background color of the app upon clicking.
 
-Time spent: **X** hours spent in total
+Time spent: **1** hours spent in total
 
 ## Required Features
 
