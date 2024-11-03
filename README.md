@@ -20,6 +20,21 @@ Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove th
 [Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) .
 
 ## App Brainstorming (Step 4)
+### App: Clcok
+### Features:
+- Update TimeZone based on where the device is currently located. Users can immediately know their new time zone and avoid the time zone lookups and caluclations.
+- Switch between 12h and 24h time system. This accomodates users of different preferences.
+- Set alarms on repeat. Say a user needs to take medication at 8am every morning. The repeat feature serves as a reminder for the user.
+
+### App: Uber
+### Features: 
+- Realtime update of where the driver is.
+- Provide arrival time estimate.
+
+### App: Photos
+### Features:
+- Record when and where a photo was taken
+- Identify the theme of the photo--people, animals, landscapes, or documents.
 
 ## Notes
 
